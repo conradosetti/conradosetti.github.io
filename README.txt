@@ -1,6 +1,6 @@
 
 TITLE: 
-Slides - Responsive Free HTML5 Horizontal Slides Template
+Slides - Landing Page de plataforma desenvolvida em grupo
 
 AUTHOR:
 DESIGNED & DEVELOPED by FreeHTML5.co and Designmodo.com
